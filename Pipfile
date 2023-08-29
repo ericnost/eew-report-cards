@@ -13,6 +13,7 @@ streamlit-folium = "*"
 requests = "*"
 branca = "*"
 streamlit-extras = "*"
+altair = "<5" 
 
 [dev-packages]
 

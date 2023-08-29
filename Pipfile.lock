@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "229b7a065414ad18e1808dc7fd600d7018d0e322edc2e6e258337b9b10684227"
+            "sha256": "7298691ce030e6d790e5ae1f26d2dd1e3101b599c5f76d5ff094918836e7cf7e"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -19,11 +19,11 @@
     "default": {
         "altair": {
             "hashes": [
-                "sha256:46d2b1a9fa29eeed24513262cb1de13a40d55c04580fc21799d5de3991fea8ff",
-                "sha256:af1d502fa27a400ab4c82c55a185b4eaa74f1146f619e53278ba19934e90510a"
+                "sha256:39399a267c49b30d102c10411e67ab26374156a84b1aeb9fcd15140429ba49c5",
+                "sha256:8b45ebeaf8557f2d760c5c77b79f02ae12aee7c46c27c06014febab6f849bc87"
             ],
-            "markers": "python_version >= '3.8'",
-            "version": "==5.1.0"
+            "index": "pypi",
+            "version": "==4.2.2"
         },
         "attrs": {
             "hashes": [
@@ -229,6 +229,14 @@
             ],
             "markers": "python_version >= '3.6'",
             "version": "==0.11.0"
+        },
+        "entrypoints": {
+            "hashes": [
+                "sha256:b706eddaa9218a19ebcd67b56818f05bb27589b1ca9e8d797b74affad4ccacd4",
+                "sha256:f174b5ff827504fd3cd97cc3f8649f3693f51538c7e4bdf3ef002c8429d42f9f"
+            ],
+            "markers": "python_version >= '3.6'",
+            "version": "==0.4"
         },
         "faker": {
             "hashes": [
