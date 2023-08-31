@@ -13,6 +13,12 @@ import json
 import requests, zipfile, io
 import sqlite3
 
+# ADD SOME NOTES
+# MORE PROGRAMMING
+# KEEP CHANGIN THIGNS
+# KEEP CHANGING MORE THINGS
+# STLYING THINGS
+
 # Page set up
 st.set_page_config(layout="wide")
 #st.markdown('![EEW logo](https://github.com/edgi-govdata-archiving/EEW-Image-Assets/blob/main/Jupyter%20instructions/eew.jpg?raw=true) ![EDGI logo](https://github.com/edgi-govdata-archiving/EEW-Image-Assets/blob/main/Jupyter%20instructions/edgi.png?raw=true)')
