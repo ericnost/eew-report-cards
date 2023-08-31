@@ -17,6 +17,7 @@ import sqlite3
 # MORE PROGRAMMING
 # KEEP CHANGIN THIGNS
 # KEEP CHANGING MORE THINGS
+# STLYING THINGS
 
 # Page set up
 st.set_page_config(layout="wide")
